@@ -194,7 +194,7 @@ li{
 .number-1 {
     display: flex;
     background-color: #ffffff;
-    height: 30vh;
+    height: 40vh;
     overflow: hidden;
     
     margin-right: 20px;
@@ -213,39 +213,39 @@ li{
 .in-1{
     height: 20vh;
     position: absolute;
-    bottom: 0;
+    bottom: -70px;
     left: 30%;
     
 }
 .in-2{
     position: absolute;
     left: 35%;
-    bottom: 0;
-    height: 18vh;
+    bottom: -70px;
+    height: 28vh;
 }
 .in-3{
     position: absolute;
     left: 40%;
-    bottom: 0;
-    height: 25vh;
+    bottom: -70px;
+    height: 35vh;
 }
 .in-4{
     position: absolute;
     left: 45%;
-    bottom: 0;
+    bottom: -70px;
     height: 25vh;
 }
 .in-5{
     position: absolute;
     left: 50%;
-    bottom: 0;
-    height: 19vh;
+    bottom: -70px;
+    height: 31vh;
 }
 .in-6{
     position: absolute;
     left: 55%;
-    bottom: 0;
-    height: 19vh;
+    bottom: -70px;
+    height: 29vh;
 }
 .outer{
     background: purple;
@@ -255,40 +255,40 @@ li{
 .out-7{
     position: absolute;
     left: 65%;
-    bottom: 0;
+    bottom: -70px;
     height: 19vh;
 }
 
 .out-8{
     position: absolute;
     left: 70%;
-    bottom: 0;
+    bottom: -70px;
     height: 19vh;
 }
 .out-9{
     position: absolute;
     left: 75%;
-    bottom: 0;
-    height: 25vh;
+    bottom: -70px;
+    height: 29vh;
 }
 .out-10{
     position: absolute;
     left: 80%;
-    bottom: 0;
-    height: 28vh;
+    bottom: -70px;
+    height: 30vh;
 }
 .out-11{
     position: absolute;
     left: 85%;
-    bottom: 0;
-    height: 21vh;
+    bottom: -70px;
+    height: 27vh;
 }
     
 .out-12{
     position: absolute;
     left: 90%;
-    bottom: 0;
-    height: 17vh;
+    bottom: -70px;
+    height: 35vh;
 }
 
 
